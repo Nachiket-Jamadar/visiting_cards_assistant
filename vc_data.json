@@ -1,0 +1,13 @@
+{
+  "data": [
+
+    { "name": "Mudra Pryntech",
+      "email": "nachiketjam@gmail.com",
+      "phone" : "7676837789",
+      "services": ["DTP", "Design", "Printing"],
+      "hasPhone": true,
+      "hasEmail": true
+
+    }
+  ]
+}
